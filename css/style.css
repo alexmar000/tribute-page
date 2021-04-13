@@ -1,0 +1,34 @@
+#main{
+    font-family: Helvetica;
+    background: #f5e9dc;
+    width: 100%;
+    font-size: 1rem;
+    letter-spacing: 1px;
+    flex-wrap: nowrap;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: left;
+   
+  }
+  #img-caption{
+      font-weight: 700;
+  }
+  #image{
+    max-width: 100%;
+    height:auto;
+    display: block;
+  }
+  #tribute-info{
+    max-width: 47%;
+    display: block;
+  }
+  #footer{
+    
+   padding: 5px;
+   font-size: 1.1rem;
+   font-weight: 700;
+  }
+  #tribute-link{
+    color: brown;
+  }
